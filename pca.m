@@ -1,0 +1,1 @@
+a = csvread('titanic.csv',1,0);
